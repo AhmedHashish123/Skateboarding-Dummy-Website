@@ -1,0 +1,75 @@
+.jumbotron{
+    text-align: center;
+    background: none;
+}
+
+.sectionLight{
+    background-color:#eceeef;
+    padding: 2em;
+}
+
+.ForOptimizingImage{
+    padding:0;
+}
+
+.sectionDark{
+    background-color: #cccccc;
+    padding: 1rem/*rem helps for mobile compatibility*/
+}
+
+.coolStuffRapper{
+    margin-top: 20px;
+}
+
+button.coolStuffBtn{
+    color:white;
+    background-color: #ff0000;
+    display:block;
+    margin:auto;
+}
+
+h5.modal-title {
+    margin: auto;
+}
+
+.modalFormWrapper{
+    padding: 2rem;
+}
+
+.imgCenter {
+    display:block;
+    margin:auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 80%;
+    /*We could use a media query to change the percentage of the width when the image shrinks*/
+}
+
+.footerImg {
+    padding: 15px;
+}
+
+.fa {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-google-plus-square {
+    color: #c32f10;
+}
+
+.fa-instagram {
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
+}
